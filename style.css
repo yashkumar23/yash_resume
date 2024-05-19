@@ -1,0 +1,43 @@
+.bg{
+  background-color: #f1f1f3 ;
+}
+
+.bgs{
+  background-color: #bdbdbd;
+}
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.cap{
+  text-transform: uppercase;
+}
+
+.hr-pad{
+  width: 70px;
+  height: 7px;
+  background-color: blue;
+  display: inline-block;
+  position: relative;
+  bottom: 1.9rem;
+}
+
+.mb-3{
+  align-content: center;
+}
+
+.about-us{
+  text-align: justify;
+}
+
+.skills-list {
+  list-style-type: none;
+}
+
+.pro{
+  display: flex;
+  top: 20px;
+}
